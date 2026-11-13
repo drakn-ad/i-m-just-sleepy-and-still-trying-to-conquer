@@ -36,11 +36,11 @@ window.PORTFOLIO.profile = {
     text: "Tell me what you are building and I will get back to you.",
     phone: "01126971714",
     phoneIntl: "+201126971714",
-<<<<<<< HEAD
+
     email: "mahmodhesham351@gmail.com",                     // add later; the UI shows it automatically
-=======
+
     email: null,                     // add later; the UI shows it automatically
->>>>>>> b4aa3bee30eb2ce9c5c592f63a324e8ab8aa021c
+
     location: null,
     formEndpoint: null               // e.g. Formspree/Supabase function URL. Falls back to mailto if email exists.
   },
@@ -48,11 +48,11 @@ window.PORTFOLIO.profile = {
   /* Any social left null is hidden everywhere (hero, contact, footer). */
   socials: {
     github: "https://github.com/EL3oMaNy",
-<<<<<<< HEAD
+
     linkedin: "https://www.linkedin.com/in/ma7moud-hesham/",
-=======
+
     linkedin: null,
->>>>>>> b4aa3bee30eb2ce9c5c592f63a324e8ab8aa021c
+
     codeforces: null,
     leetcode: null
   },

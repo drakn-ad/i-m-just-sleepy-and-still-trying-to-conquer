@@ -19,11 +19,10 @@ Only `js/api.js` reads data (`getProfile`, `getProjects`). Replace those two fun
 
 ## Structure
 `data/` content · `js/api.js` data layer · `js/main.js` renderer + animations · `styles/` · `assets/`
-<<<<<<< HEAD
+
 
 ## Admin panel (admin.html)
 Open `admin.html` to add/edit/delete/hide/feature/reorder projects with image upload, and edit profile text, contact, socials and skills.
 Changes are saved in the browser (localStorage). Click **Export files** and replace `data/projects.js` + `data/profile.js` to publish them.
 For changes that sync across devices without exporting, replace the functions in `js/api.js` with a backend (e.g. Supabase).
-=======
->>>>>>> b4aa3bee30eb2ce9c5c592f63a324e8ab8aa021c
+
